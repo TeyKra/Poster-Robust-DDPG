@@ -2,7 +2,7 @@
 
 ## Project Aimed at Creating a Poster on Autonomous Drone Navigation via Reinforcement Learning
 
-![Texte alternatif](Poster_Automatic_Piloting_of_Drones_by_Reinforcement_Learning.jpg "Poster")
+![Texte alternatif](Poster_image_Automatic_Piloting_of_Drones_by_Reinforcement_Learning.jpg "Poster")
 
 **Sources**:
 - Article 1: [Remote Sensing Journal](https://www.mdpi.com/journal/remotesensing)
